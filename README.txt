@@ -1,1 +1,1 @@
-Welcome to My repository!
+Welcome to GithubTraining repository!
